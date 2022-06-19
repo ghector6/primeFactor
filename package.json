@@ -1,0 +1,22 @@
+{
+  "name": "primefactormakingdevs",
+  "version": "1.0.0",
+  "description": "getHighestPrimeFromNum",
+  "main": "primeFactor.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghector6/primeFactor.git"
+  },
+  "author": "ghector6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghector6/primeFactor/issues"
+  },
+  "homepage": "https://github.com/ghector6/primeFactor#readme",
+  "dependencies": {
+    "jest": "^26.0.0"
+  }
+}
