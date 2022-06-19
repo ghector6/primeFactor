@@ -1,5 +1,5 @@
 class primeFactor {
-    static getHighestPrime = (range) => {
+    static getHighestPrime(range){
         let primeNum = 2;
         for (let i = 0; i <= range; i++){
             if(range % primeNum === 0){
